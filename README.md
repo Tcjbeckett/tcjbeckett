@@ -1,5 +1,5 @@
 <h1 align="center">Tameca Beckett</h1>
-<h3 align="center">Software Engineer | Information Professional | Author | Creative</h3>
+<h3 align="center">Data Engineer/Software Engineer | Information Professional | Author | Creative</h3>
 
 
 <p aligh="left">‘There is no box’ is the best way that I can describe my approach to my personal and professional life. Personally, I love music and the way I can create, fuse and remix sound to make an infinite number of possibilities. Similarly, my roles as an information professional have allowed me to grow, cultivate and reinforce a design thinking, innovative and iterative mindset in software development and management. 
