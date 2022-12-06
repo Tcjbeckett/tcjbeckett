@@ -8,7 +8,7 @@ For as long as I can remember, I have enjoyed creating and using technology to e
 
 **Licenses & Certifications**
 <p align="left"> 
-<a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205775778-186f4e96-f020-4f28-a42c-a95d5f472031.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205776003-a275950d-32f1-4673-a2b9-246d299a46af.png" alt="java" width="40" height="40"/> </a> 
 
 </p>
 
