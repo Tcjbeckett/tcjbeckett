@@ -9,7 +9,7 @@ For as long as I can remember, I have enjoyed creating and using technology to e
 **Licenses & Certifications**
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="02a051c2-ddad-482b-8305-8fc57ebec117" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </p>
 
 **Programming Languages**
