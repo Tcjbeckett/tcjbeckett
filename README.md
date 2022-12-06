@@ -2,9 +2,9 @@
 <h3 align="center">AWS Certified Cloud Practitioner | Data Engineer | Information Professional | Author</h3>
 
 
-<p aligh="left">‘There is no box’ is the best way that I can describe my approach to my personal and professional life. Personally, I love music and the way I can create, fuse and remix sound to make an infinite number of possibilities. Similarly, my roles as an information professional have allowed me to grow, cultivate and reinforce a design thinking, innovative and iterative mindset in software development and management. 
+<p aligh="left">‘There is no box’ is the best way that I can describe my approach to my personal and professional life. Personally, I love music and the way I can create, fuse and remix sound to make an infinite number of possibilities. Similarly, my roles as a data engineer fellow and information professional have allowed me to grow, cultivate and reinforce a design thinking, innovative and iterative mindset.
 
-For as long as I can remember, I have enjoyed creating and using technology to explore and implement solutions. I am excited about the opportunity to work as a software engineer in a product-focused organization, where I can incorporate my background in software development, data analytics, and research to build exciting products with a team of like-minded dreamers.</p>
+For as long as I can remember, I have enjoyed creating and using technology to explore and solve problems. I am excited about the opportunity to work as a cloud architect in a solutions-focused organization, where I can incorporate my background in cloud services, data engineering, software development, and research to build exciting solutions with a team of like-minded dreamers.</p>
 
 
 **Programming Languages**
