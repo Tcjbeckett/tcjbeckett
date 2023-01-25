@@ -12,7 +12,7 @@ For as long as I can remember, I have enjoyed creating and using technology to e
 
 </p>
 
-**Cloud/DevOps**
+**Cloud DevOps**
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
