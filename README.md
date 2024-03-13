@@ -1,4 +1,4 @@
-<h1 align="center">Tameca Beckett</h1>
+<h1 align="center">Dr. Tameca Jewell Beckett</h1>
 <h3 align="center">AWS Certified Cloud Practitioner | Data Engineer | Information Professional | Author</h3>
 
 
