@@ -21,9 +21,9 @@ Major: Library and Information Services</p>
 <p align="left">Assistant Professor of Instruction</br>University of South Florida</p>
 
 **<ins>Courses Taught</ins>**
-LIS 3353 IT Concepts for Information Professionals
-LIS 4204 Information Behaviors
-COP 2030 Programming Concepts (Python)
+LIS 3353 IT Concepts for Information Professionals</br>
+LIS 4204 Information Behaviors</br>
+COP 2030 Programming Concepts (Python)</br>
 
 **<ins>Licenses & Certifications</ins>**
 <p align="left"> 
