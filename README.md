@@ -25,7 +25,7 @@ Major: Library and Information Services</p>
 LIS 4204 - Information Behaviors</br>
 COP 2030 - Programming Concepts (Python)</br></p>
 
-**<ins>Licenses & Certifications</ins>**
+**<ins>Technical Skills & Certifications</ins>**
 <p align="left"> 
 <a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205776003-a275950d-32f1-4673-a2b9-246d299a46af.png" alt="java" width="84" height="84"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
