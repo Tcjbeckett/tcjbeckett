@@ -6,6 +6,17 @@
  
 In recent years, I have served my communities in various capacities, including as a public library director, data engineering fellow, and academic librarian. Leveraging my background in education, data analytics, and research, I developed a groundbreaking model that combines appreciative inquiry and context personalization, which has been recognized with a peer-reviewed publication. I will continue to forge new paths in the realms of education, data, and information science, inspiring and empowering others to harness the transformative potential of data and technology for the public good.</p>
 
+**Education**
+<p align="left">Doctor of Education, 2021: Delaware State University
+Dissertation: Collaboration Between PK-12 Public and Academic Librarians: Improving the Information
+Literacy Gap Among Incoming High School Seniors and College Freshmen. Dissertation.
+ 
+Master of Library and Information Science: San Jose State University (San Jose, CA)
+Concentration: Technology and Administration
+
+Bachelor of Science, magna cum laude; University of Maine at Augusta (Augusta, ME)
+Major: Library and Information Services</p>
+
 **Licenses & Certifications**
 <p align="left"> 
 <a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205776003-a275950d-32f1-4673-a2b9-246d299a46af.png" alt="java" width="84" height="84"/> </a> 
