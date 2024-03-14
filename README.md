@@ -17,6 +17,9 @@ Concentration: Technology and Administration
 Bachelor of Science, magna cum laude; University of Maine at Augusta (Augusta, ME)
 Major: Library and Information Services</p>
 
+**Professional Affiliation**
+<p align="left">Assistant Professor of Instruction</br>University of South Florida</p>
+
 **Licenses & Certifications**
 <p align="left"> 
 <a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205776003-a275950d-32f1-4673-a2b9-246d299a46af.png" alt="java" width="84" height="84"/> </a> 
