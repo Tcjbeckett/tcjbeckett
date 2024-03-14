@@ -8,6 +8,7 @@ In recent years, I have served my communities in various capacities, including a
 
 **Education**
 <p align="left">Doctor of Education, 2021: Delaware State University
+ 
 Dissertation: Collaboration Between PK-12 Public and Academic Librarians: Improving the Information
 Literacy Gap Among Incoming High School Seniors and College Freshmen. Dissertation.
  
