@@ -7,7 +7,7 @@
 In recent years, I have served my communities in various capacities, including as a public library director, data engineering fellow, and academic librarian. Leveraging my background in education, data analytics, and research, I developed a groundbreaking model that combines appreciative inquiry and context personalization, which has been recognized with a peer-reviewed publication. I will continue to forge new paths in the realms of education, data, and information science, inspiring and empowering others to harness the transformative potential of data and technology for the public good.</p>
 
 **Education**
-<p align="left">Doctor of Education, 2021: Delaware State University
+<p align="left">Doctor of Education, 2021: Delaware State University</br>
 Dissertation: Collaboration Between PK-12 Public and Academic Librarians: Improving the Information
 Literacy Gap Among Incoming High School Seniors and College Freshmen. Dissertation.
  
