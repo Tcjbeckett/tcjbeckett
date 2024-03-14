@@ -1,7 +1,7 @@
 <h1 align="center">Dr. Tameca Jewell Beckett</h1>
 <h3 align="center">Assistant Professor of Instruction | Data Engineer | Information Professional | Author</h3>
 
-**Who Am I?**
+**<ins>Who Am I?</ins>**
 <p aligh="left">Dr. Tameca Jewell Beckett - a dedicated scholar-practitioner and information professional who is deeply passionate about student success at the intersections of data, technology, and research. I have over a decade of experience as an architect for engagement and catalyst for dialogue within communities. I believe in the value of free, open access to information and have a deep commitment to sharing innovative, data-driven solutions that blend technology and creativity. Formerly a Board Member for the National Association of Rural and Small Libraries, I was awarded the American Library Association's 2014 Emerging Leader Award and the Rodel Foundation iEducate Delaware Award. 
  
 In recent years, I have served my communities in various capacities, including as a public library director, data engineering fellow, and academic librarian. Leveraging my background in education, data analytics, and research, I developed a groundbreaking model that combines appreciative inquiry and context personalization, which has been recognized with a peer-reviewed publication. I will continue to forge new paths in the realms of education, data, and information science, inspiring and empowering others to harness the transformative potential of data and technology for the public good.</p>
@@ -17,10 +17,10 @@ Concentration: Technology and Administration
 Bachelor of Science, magna cum laude; University of Maine at Augusta (Augusta, ME)
 Major: Library and Information Services</p>
 
-**Professional Affiliation**
+**<ins>Professional Affiliation</ins>**
 <p align="left">Assistant Professor of Instruction</br>University of South Florida</p>
 
-**Licenses & Certifications**
+**<ins>Licenses & Certifications</ins>**
 <p align="left"> 
 <a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205776003-a275950d-32f1-4673-a2b9-246d299a46af.png" alt="java" width="84" height="84"/> </a> 
 
