@@ -7,7 +7,7 @@
 In recent years, I have served my communities in various capacities, including as a public library director, data engineering fellow, and academic librarian. Leveraging my background in education, data analytics, and research, I developed a groundbreaking model that combines appreciative inquiry and context personalization, which has been recognized with a peer-reviewed publication. I will continue to forge new paths in the realms of education, data, and information science, inspiring and empowering others to harness the transformative potential of data and technology for the public good.</p>
 
 **<ins>Education</ins>**
-<p align="left">Doctor of Education, 2021: Delaware State University</br>
+<p align="left">Doctor of Education, Delaware State University</br>
 Dissertation: Collaboration Between PK-12 Public and Academic Librarians: Improving the Information
 Literacy Gap Among Incoming High School Seniors and College Freshmen. Dissertation.
  
@@ -28,9 +28,6 @@ COP 2030 - Programming Concepts (Python)</br></p>
 **<ins>Licenses & Certifications</ins>**
 <p align="left"> 
 <a href="https://www.credly.com/badges/02a051c2-ddad-482b-8305-8fc57ebec117/public_url" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101376999/205776003-a275950d-32f1-4673-a2b9-246d299a46af.png" alt="java" width="84" height="84"/> </a> 
-
-
-
 </p>
 
 **Cloud Computing**
